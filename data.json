@@ -24,4 +24,9 @@
     "name":"diva",
     "age":25,
     "occupation":"technician"
+},
+{
+    "name":"qawi",
+    "age":27,
+    "occupation":"IT"
 }]
